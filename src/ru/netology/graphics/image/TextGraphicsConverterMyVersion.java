@@ -95,7 +95,6 @@ public class TextGraphicsConverterMyVersion implements TextGraphicsConverter {
     @Override
     public void setMaxRatio(double maxRatio) {
         this.maxRatio = maxRatio;
-
     }
 
     @Override
